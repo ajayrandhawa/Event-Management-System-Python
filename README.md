@@ -1,1 +1,1 @@
-# Event-Management-System-Python
+# Event Management System Python
