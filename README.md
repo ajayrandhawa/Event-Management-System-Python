@@ -1,4 +1,4 @@
-# Event Management System Python--
+# Event Management System Python---
 
 ### Features :
 1. Create An Event
