@@ -1,6 +1,6 @@
 # Event Management System Python
 
-### Features : -------------------------
+### Features : ---
 1. Create An Event
 2. View Events
 3. Book Ticket
